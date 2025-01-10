@@ -1,2 +1,2 @@
-# PRactice-Repo
+# Practice-Repo
 practice for class!
